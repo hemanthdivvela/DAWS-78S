@@ -15,7 +15,6 @@ VALIDATA(){
     fi
 
 }
-
 if [ $USERID -ne 0 ]
 then
     echo "plese run this script with root sccess."
