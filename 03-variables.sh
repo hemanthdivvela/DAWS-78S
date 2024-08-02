@@ -3,6 +3,7 @@
 #declaring of variable
 PERSON1=Sai  #no space between = and value
 PERSON2=kalyan
+
 #referring variable
 echo "$PERSON1 :: Hello $PERSON2, how are you?"
 echo "$PERSON2 :: Hi $PERSON1, I am fine. How are you?"
